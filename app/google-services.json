@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55119881400",
+    "project_id": "shoppingapp-7a85a",
+    "storage_bucket": "shoppingapp-7a85a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55119881400:android:f24cffcb527d00bd0ac04d",
+        "android_client_info": {
+          "package_name": "com.vaibhav.shoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzV8ZpY71_mX7QgGfqph92NEEAB7yUFrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
